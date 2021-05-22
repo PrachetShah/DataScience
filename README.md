@@ -1,2 +1,2 @@
-# DataScience
-Various DataScience Project Codes can be found in this Repository.
+# Machine Learning
+Various DataScience related Project Codes on Machine Lerning and Deep Learning can be found in this Repository.
