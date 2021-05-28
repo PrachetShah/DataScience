@@ -1,1 +1,1 @@
-Ploynomial Regression on position salaries dataset
+Polynomial Regression on position salaries dataset
