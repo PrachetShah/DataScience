@@ -1,2 +1,2 @@
 # Machine Learning
-Various types of <b><u>Regression Models</b></u> can be found in this Repository.
+Various types of <b><i>Regression Models</b></i> can be found in this Repository.
