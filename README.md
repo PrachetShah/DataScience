@@ -1,2 +1,2 @@
 # Machine Learning
-Various DataScience related Project Codes on Machine Lerning and Deep Learning can be found in this Repository.
+Various types of <b><u>Regression Models</b></u> can be found in this Repository.
